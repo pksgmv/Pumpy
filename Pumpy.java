@@ -43,6 +43,7 @@ public class Proj {
 		int res;
 		res=a*b;
 		System.out.println("Rahul says the product is "+res+" after multiplication");
+		System.out.println("nganba");
 	}
 
 }
