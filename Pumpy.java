@@ -17,4 +17,11 @@ public class Proj {
 		res=a-b;
 		System.out.println("Nganba says the result is "+res+" after subtraction");
 	}
+      void multipy(int a,int b)
+	{
+		int res;
+		res=a*b;
+		System.out.println("Rahul says the product is "+res+" after multiplication");
+	}
+
 }
